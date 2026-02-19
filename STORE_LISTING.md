@@ -69,7 +69,7 @@ This extension has a single purpose: to let users download MP4 videos from publi
 ---
 
 ## PRIVACY POLICY URL
-https://<YOUR_GITHUB_USERNAME>.github.io/x-twitter-chrome-extension/privacy-policy.html
+https://gelu22.github.io/x-twitter-video-downloader/privacy-policy.html
 (Replace with your actual URL after hosting on GitHub Pages)
 
 ---
