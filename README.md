@@ -4,6 +4,7 @@
 
 ![Manifest V3](https://img.shields.io/badge/Manifest-V3-brightgreen)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow)
+[![Download](https://img.shields.io/github/v/release/gelu22/x-twitter-video-downloader?label=Download&logo=github)](https://github.com/gelu22/x-twitter-video-downloader/releases/latest/download/extension.zip)
 
 ---
 
@@ -22,7 +23,8 @@
 Search for **X.com Video Downloader** or use the direct link.
 
 ### Manual (Developer Mode)
-1. Download or clone this repository
+1. **[⬇ Download extension.zip](https://github.com/gelu22/x-twitter-video-downloader/releases/latest/download/extension.zip)**
+2. Unzip the file
 2. Open Chrome → `chrome://extensions/`
 3. Enable **Developer mode** (top right toggle)
 4. Click **Load unpacked** → select this folder
