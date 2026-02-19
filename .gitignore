@@ -1,0 +1,20 @@
+# Built package — do not commit
+extension.zip
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# SVG source files (PNGs are the build output)
+icons/*.svg
+
+# Dev/planning docs (internal only)
+INSTALACJA.txt
+START_TUTAJ.txt
+package.sh
