@@ -4,7 +4,7 @@
 
 ![Manifest V3](https://img.shields.io/badge/Manifest-V3-brightgreen)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow)
-[![Download](https://img.shields.io/github/v/release/gelu22/x-twitter-video-downloader?label=Download&logo=github)](https://github.com/gelu22/x-twitter-video-downloader/releases/latest/download/extension.zip)
+[![Download](https://img.shields.io/github/v/release/gelu22/x-twitter-video-downloader?label=Download&logo=github)](https://github.com/gelu22/x-twitter-video-downloader/releases/latest/download/X.com-Video-Downloader.zip)
 
 ---
 
@@ -26,7 +26,7 @@ Search for **X.com Video Downloader** or use the direct link.
 
 > Chrome Web Store version is pending review. In the meantime, install manually in ~1 minute:
 
-1. **[⬇ Download extension.zip](https://github.com/gelu22/x-twitter-video-downloader/releases/latest/download/extension.zip)**
+1. **[⬇ Download X.com-Video-Downloader.zip](https://github.com/gelu22/x-twitter-video-downloader/releases/latest/download/X.com-Video-Downloader.zip)**
 2. **Unzip** the downloaded file into a folder (e.g. `x-video-downloader/`)
    - Windows: right-click → *Extract All*
    - Mac: double-click the `.zip` file
