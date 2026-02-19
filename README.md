@@ -63,7 +63,7 @@ Search for **X.com Video Downloader** or use the direct link.
 
 If this extension saved you time, a small tip is appreciated:
 
-**[Buy me a coffee →](https://buymeacoffee.com)**
+**[Buy me a coffee →](https://buymeacoffee.com/tomek_dev_by_night)**
 
 ## ⚠️ Disclaimer
 
