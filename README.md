@@ -23,11 +23,19 @@
 Search for **X.com Video Downloader** or use the direct link.
 
 ### Manual (Developer Mode)
+
+> Chrome Web Store version is pending review. In the meantime, install manually in ~1 minute:
+
 1. **[⬇ Download extension.zip](https://github.com/gelu22/x-twitter-video-downloader/releases/latest/download/extension.zip)**
-2. Unzip the file
-2. Open Chrome → `chrome://extensions/`
-3. Enable **Developer mode** (top right toggle)
-4. Click **Load unpacked** → select this folder
+2. **Unzip** the downloaded file into a folder (e.g. `x-video-downloader/`)
+   - Windows: right-click → *Extract All*
+   - Mac: double-click the `.zip` file
+3. Open Chrome and go to **`chrome://extensions/`**
+4. Enable **Developer mode** using the toggle in the top-right corner
+5. Click **Load unpacked** → select the **unzipped folder** (not the `.zip` file!)
+6. The extension icon (blue circle with X↓) appears in your toolbar
+
+> ⚠️ Chrome may show a warning that the extension is not from the Web Store — this is normal for manually installed extensions.
 
 ## 🚀 How to use
 
